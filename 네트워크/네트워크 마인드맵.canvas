@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"c0441305754812e8","type":"file","file":"네트워크/OSI 7계층.md","x":-1000,"y":-320,"width":400,"height":400},
+		{"id":"753e89c2fe1d26a8","x":-1520,"y":-320,"width":400,"height":400,"type":"file","file":"네트워크/계층 간 데이터 송수신 방식(OSI).md"},
+		{"id":"8385741fb54b7ade","type":"file","file":"네트워크/L4 스위치.md","x":-1000,"y":-1240,"width":400,"height":280},
+		{"id":"f44a0ccd99180a84","type":"file","file":"네트워크/스위치.md","x":-1000,"y":-789,"width":400,"height":400},
+		{"id":"782f2f57d978555c","type":"file","file":"네트워크/L7 스위치.md","x":-551,"y":-1240,"width":400,"height":280},
+		{"id":"5007a4d52a6edd31","type":"file","file":"네트워크/라우터.md","x":-1471,"y":-1240,"width":400,"height":280},
+		{"id":"6652f352e681bf91","type":"file","file":"네트워크/HTTP.md","x":-1000,"y":160,"width":400,"height":400},
+		{"id":"8d9dd10a143d1070","type":"file","file":"네트워크/TCP, IP 4계층.md","x":200,"y":-320,"width":400,"height":400},
+		{"id":"5ddc9c8015980b8f","x":720,"y":-320,"width":400,"height":400,"type":"file","file":"네트워크/계층 간 데이터 송수신 방식(TCP, IP).md"},
+		{"id":"8eb024801d313971","type":"file","file":"네트워크/IP.md","x":-40,"y":-640,"width":400,"height":200},
+		{"id":"592a534d330b5f0f","type":"file","file":"네트워크/3-way handshake.md","x":400,"y":-1160,"width":400,"height":400},
+		{"id":"f3251ec7b352e927","type":"file","file":"네트워크/TCP.md","x":480,"y":-640,"width":400,"height":200},
+		{"id":"d397e4509390dbc0","type":"file","file":"네트워크/4-way handshake.md","x":840,"y":-1160,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"3a94380caffb1c04","fromNode":"8d9dd10a143d1070","fromSide":"top","toNode":"f3251ec7b352e927","toSide":"bottom"},
+		{"id":"51254a748a419376","fromNode":"8d9dd10a143d1070","fromSide":"top","toNode":"8eb024801d313971","toSide":"bottom"},
+		{"id":"7005bc760cedf0cc","fromNode":"c0441305754812e8","fromSide":"right","toNode":"8d9dd10a143d1070","toSide":"left"},
+		{"id":"e15f3b8f92672206","fromNode":"8d9dd10a143d1070","fromSide":"left","toNode":"c0441305754812e8","toSide":"right"},
+		{"id":"84bdf29ddc64e8fe","fromNode":"f3251ec7b352e927","fromSide":"top","toNode":"592a534d330b5f0f","toSide":"bottom"},
+		{"id":"ed526ba3f37dab29","fromNode":"f3251ec7b352e927","fromSide":"top","toNode":"d397e4509390dbc0","toSide":"bottom"},
+		{"id":"bafa0fc40de9fbd0","fromNode":"c0441305754812e8","fromSide":"top","toNode":"f44a0ccd99180a84","toSide":"bottom"},
+		{"id":"d2261f5d2bf68e8a","fromNode":"f44a0ccd99180a84","fromSide":"top","toNode":"5007a4d52a6edd31","toSide":"bottom"},
+		{"id":"ec6d85d596165ea8","fromNode":"f44a0ccd99180a84","fromSide":"top","toNode":"8385741fb54b7ade","toSide":"bottom"},
+		{"id":"81eab9edb17970c8","fromNode":"f44a0ccd99180a84","fromSide":"top","toNode":"782f2f57d978555c","toSide":"bottom"},
+		{"id":"1c785458abd3c1cb","fromNode":"8d9dd10a143d1070","fromSide":"right","toNode":"5ddc9c8015980b8f","toSide":"left"},
+		{"id":"5298ebecf34baa74","fromNode":"c0441305754812e8","fromSide":"left","toNode":"753e89c2fe1d26a8","toSide":"right"},
+		{"id":"e3d13753a6af4995","fromNode":"c0441305754812e8","fromSide":"bottom","toNode":"6652f352e681bf91","toSide":"top"}
+	]
+}
