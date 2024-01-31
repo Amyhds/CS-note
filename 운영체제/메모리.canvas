@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"4782fe8a99e595e5","type":"file","file":"운영체제/캐시.md","x":-800,"y":-420,"width":560,"height":660},
+		{"id":"97cb48fcc97fbdf0","type":"file","file":"운영체제/메모리.md","x":0,"y":-520,"width":540,"height":600},
+		{"id":"71352a9fb864963e","type":"file","file":"운영체제/메모리(주기억장치).md","x":-800,"y":280,"width":560,"height":400},
+		{"id":"f15f2c6077ad8674","type":"file","file":"운영체제/저장장치(보조기억장치).md","x":-800,"y":731,"width":560,"height":269},
+		{"id":"08bc386b6633b0f9","type":"file","file":"운영체제/레지스터.md","x":-800,"y":-720,"width":560,"height":240},
+		{"id":"1b902786d39a46c8","type":"file","file":"운영체제/연속 메모리 할당.md","x":640,"y":-680,"width":520,"height":400},
+		{"id":"8b198b28a554236c","type":"file","file":"운영체제/불연속 메모리 할당.md","x":640,"y":-10,"width":520,"height":180},
+		{"id":"47596c2ccfd6b80d","type":"file","file":"운영체제/내부 단편화.md","x":1280,"y":-680,"width":400,"height":125},
+		{"id":"1aef5148e77cbc74","type":"file","file":"운영체제/외부 단편화.md","x":1280,"y":-490,"width":400,"height":170},
+		{"id":"3f78ab4b12e69919","type":"file","file":"운영체제/페이징.md","x":1280,"y":-88,"width":400,"height":258},
+		{"id":"3e455520075265aa","type":"file","file":"운영체제/세그멘테이션.md","x":1280,"y":240,"width":400,"height":280},
+		{"id":"c2607413d3bc496c","type":"file","file":"운영체제/가상 메모리.md","x":-55,"y":280,"width":650,"height":535},
+		{"id":"13c134b18a00fd68","type":"file","file":"운영체제/페이지 폴트.md","x":510,"y":1000,"width":650,"height":400}
+	],
+	"edges":[
+		{"id":"01e46881b2b49a4f","fromNode":"97cb48fcc97fbdf0","fromSide":"left","toNode":"08bc386b6633b0f9","toSide":"right"},
+		{"id":"42f9a9b6487b25c3","fromNode":"97cb48fcc97fbdf0","fromSide":"left","toNode":"4782fe8a99e595e5","toSide":"right"},
+		{"id":"e5af2bcceb1dafda","fromNode":"97cb48fcc97fbdf0","fromSide":"left","toNode":"71352a9fb864963e","toSide":"right"},
+		{"id":"38864e9eb1e582fa","fromNode":"97cb48fcc97fbdf0","fromSide":"left","toNode":"f15f2c6077ad8674","toSide":"right"},
+		{"id":"f266bb62ae5b6857","fromNode":"97cb48fcc97fbdf0","fromSide":"bottom","toNode":"c2607413d3bc496c","toSide":"top"},
+		{"id":"f6f9afc26ba38c1b","fromNode":"97cb48fcc97fbdf0","fromSide":"right","toNode":"1b902786d39a46c8","toSide":"left"},
+		{"id":"f207ca60c66c7d59","fromNode":"97cb48fcc97fbdf0","fromSide":"right","toNode":"8b198b28a554236c","toSide":"left"},
+		{"id":"bd9be3015a1f2230","fromNode":"1b902786d39a46c8","fromSide":"right","toNode":"47596c2ccfd6b80d","toSide":"left"},
+		{"id":"886b5ce3be5db878","fromNode":"1b902786d39a46c8","fromSide":"right","toNode":"1aef5148e77cbc74","toSide":"left"},
+		{"id":"3ef7af3d4f951ce7","fromNode":"8b198b28a554236c","fromSide":"right","toNode":"3f78ab4b12e69919","toSide":"left"},
+		{"id":"aed796b7f53c02e1","fromNode":"8b198b28a554236c","fromSide":"right","toNode":"3e455520075265aa","toSide":"left"},
+		{"id":"5e0ca962a563e19e","fromNode":"c2607413d3bc496c","fromSide":"bottom","toNode":"13c134b18a00fd68","toSide":"top"}
+	]
+}

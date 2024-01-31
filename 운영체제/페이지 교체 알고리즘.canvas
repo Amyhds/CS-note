@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"da45ece4057eb1ba","type":"file","file":"운영체제/LRU.md","x":220,"y":-540,"width":400,"height":400},
+		{"id":"48bc25e04505125f","type":"file","file":"운영체제/NRU.md","x":220,"y":-60,"width":400,"height":400},
+		{"id":"129fba92a976e4bc","type":"file","file":"운영체제/페이지 교체.md","x":-260,"y":-300,"width":400,"height":400},
+		{"id":"a493f688495a8853","type":"file","file":"운영체제/LFU.md","x":-740,"y":-60,"width":400,"height":400},
+		{"id":"a43fea1fe1983147","type":"file","file":"운영체제/FIFO.md","x":-740,"y":-540,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"614f1eaf1a9b2016","fromNode":"129fba92a976e4bc","fromSide":"right","toNode":"da45ece4057eb1ba","toSide":"left"},
+		{"id":"a2631e817635c491","fromNode":"129fba92a976e4bc","fromSide":"right","toNode":"48bc25e04505125f","toSide":"left"},
+		{"id":"0b53c48c41769ca5","fromNode":"129fba92a976e4bc","fromSide":"left","toNode":"a493f688495a8853","toSide":"right"},
+		{"id":"6a2f3eff6698515d","fromNode":"129fba92a976e4bc","fromSide":"left","toNode":"a43fea1fe1983147","toSide":"right"}
+	]
+}
