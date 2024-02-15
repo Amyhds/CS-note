@@ -5,5 +5,5 @@
 - new를 통해 새로 생성된 객체가 위치. 
 - 정기적인 쓰레기 수집 후 살아남은 객체들은 Survivor 영역으로 보냄
 ### Survivor 0 / Survivor 1
-- 최소 1번의 GC 이상 살아남은 객체가 존재하는 영역
-- Survivor 영역에는 특별한 규칙이 있는데, Survivor 0 또는 Survivor 1 둘 중 하나에는 꼭 비어 있어야 하는 것이다.
+- 최소 1번의 이상의 GC에서 살아남은 객체가 존재하는 영역
+- Survivor 영역에는 특별한 규칙이 있는데, Survivor 0 또는 Survivor 1 둘 중 하나는 꼭 비어 있어야 하는 것이다.

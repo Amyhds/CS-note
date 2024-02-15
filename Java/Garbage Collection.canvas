@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"7fe4fe055923361c","type":"file","file":"Java/Garbage Collection.md","x":-40,"y":-480,"width":780,"height":1420},
+		{"id":"7fe4fe055923361c","type":"file","file":"Java/Garbage Collection.md","x":-40,"y":-480,"width":780,"height":1620},
 		{"id":"db7caced73fa39a2","type":"file","file":"Java/Minor GC.md","x":-960,"y":-680,"width":709,"height":910},
 		{"id":"67afd0e104b63eec","type":"file","file":"Java/Major GC.md","x":-960,"y":400,"width":709,"height":405},
-		{"id":"1a44bf915ce42922","x":880,"y":-320,"width":723,"height":240,"type":"file","file":"Java/Old 영역.md"},
-		{"id":"ffe5e22303e28531","x":880,"y":160,"width":723,"height":520,"type":"file","file":"Java/Young 영역.md"}
+		{"id":"1a44bf915ce42922","type":"file","file":"Java/Old 영역.md","x":880,"y":-320,"width":723,"height":240},
+		{"id":"ffe5e22303e28531","type":"file","file":"Java/Young 영역.md","x":880,"y":160,"width":723,"height":520}
 	],
 	"edges":[
 		{"id":"837815531cb3a50c","fromNode":"7fe4fe055923361c","fromSide":"left","toNode":"67afd0e104b63eec","toSide":"right"},
