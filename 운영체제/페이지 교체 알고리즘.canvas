@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"da45ece4057eb1ba","type":"file","file":"운영체제/LRU.md","x":220,"y":-540,"width":400,"height":400},
 		{"id":"48bc25e04505125f","type":"file","file":"운영체제/NRU.md","x":220,"y":-60,"width":400,"height":400},
-		{"id":"129fba92a976e4bc","type":"file","file":"운영체제/페이지 교체.md","x":-260,"y":-300,"width":400,"height":400},
+		{"id":"129fba92a976e4bc","type":"file","file":"운영체제/페이지 교체.md","x":-260,"y":-440,"width":400,"height":540},
 		{"id":"a493f688495a8853","type":"file","file":"운영체제/LFU.md","x":-740,"y":-60,"width":400,"height":400},
 		{"id":"a43fea1fe1983147","type":"file","file":"운영체제/FIFO.md","x":-740,"y":-540,"width":400,"height":400}
 	],
