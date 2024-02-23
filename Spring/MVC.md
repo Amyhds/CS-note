@@ -1,1 +1,2 @@
 ![[Pasted image 20240223152331.png]]
+요청(Request)이 들어오면 요청의 url과 매핑되는 handler(Controller 구현체)가 생성된다. handler의 비즈니스 로직을 DispatcherServlet이 직접 실행하면 DispatcherServlet은 한 가지 유형의 handler에 종속되어 버린다. 그래서 handler 실행권한을 HandlerAdapter에게 넘기어야 한다. 그래야 다양한 유형의 handler가 실행 가능한 구조가 만들어 진다.
