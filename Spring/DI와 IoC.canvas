@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"8b05702199ac8ad0","x":-420,"y":-380,"width":540,"height":1120,"type":"file","file":"Spring/DI.md"},
-		{"id":"a2b13e2eaf0e2c6a","type":"file","file":"Spring/IoC.md","x":-960,"y":-380,"width":400,"height":600},
-		{"id":"595bac0ef93de292","x":-900,"y":300,"width":340,"height":180,"type":"file","file":"Spring/Bean.md"}
+		{"id":"595bac0ef93de292","type":"file","file":"Spring/Bean.md","x":-900,"y":380,"width":340,"height":180},
+		{"id":"a2b13e2eaf0e2c6a","type":"file","file":"Spring/IoC.md","x":-960,"y":-480,"width":400,"height":820},
+		{"id":"8b05702199ac8ad0","type":"file","file":"Spring/DI.md","x":-420,"y":-520,"width":540,"height":1120}
 	],
 	"edges":[
 		{"id":"18631835306be672","fromNode":"8b05702199ac8ad0","fromSide":"left","toNode":"595bac0ef93de292","toSide":"right"},
