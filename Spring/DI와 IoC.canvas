@@ -2,8 +2,7 @@
 	"nodes":[
 		{"id":"595bac0ef93de292","type":"file","file":"Spring/Bean.md","x":-900,"y":380,"width":340,"height":180},
 		{"id":"a2b13e2eaf0e2c6a","type":"file","file":"Spring/IoC.md","x":-960,"y":-480,"width":400,"height":820},
-		{"id":"8b05702199ac8ad0","type":"file","file":"Spring/DI.md","x":-420,"y":-520,"width":540,"height":1120},
-		{"id":"48408342ed4d7dc5","type":"file","file":"Spring/DI.md","x":-420,"y":-440,"width":540,"height":1120}
+		{"id":"8b05702199ac8ad0","type":"file","file":"Spring/DI.md","x":-420,"y":-520,"width":540,"height":1120}
 	],
 	"edges":[
 		{"id":"18631835306be672","fromNode":"8b05702199ac8ad0","fromSide":"left","toNode":"595bac0ef93de292","toSide":"right"},
