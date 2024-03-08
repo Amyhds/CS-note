@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"e41f0d7e83061da9","type":"file","file":"운영체제/운영체제의 구조.md","x":-1360,"y":-180,"width":280,"height":280},
+		{"id":"235aba794effd0f6","type":"file","file":"운영체제/드라이버.md","x":-900,"y":-40,"width":400,"height":160},
+		{"id":"42e9d2ef95682d48","type":"file","file":"운영체제/인터페이스.md","x":-900,"y":178,"width":400,"height":164},
+		{"id":"d58425596b5f29ff","type":"file","file":"운영체제/시스템 콜.md","x":-900,"y":400,"width":440,"height":320},
+		{"id":"ab9bd11d3a2f1cab","type":"file","file":"운영체제/커널.md","x":-900,"y":-880,"width":660,"height":769},
+		{"id":"009e7bdfd6fc38ce","type":"file","file":"운영체제/단일형 커널.md","x":-80,"y":-880,"width":520,"height":360},
+		{"id":"0bb8aa1d746894dc","type":"file","file":"운영체제/마이크로커널.md","x":-80,"y":-495,"width":520,"height":384}
+	],
+	"edges":[
+		{"id":"41d70a0fc165d63e","fromNode":"e41f0d7e83061da9","fromSide":"right","toNode":"ab9bd11d3a2f1cab","toSide":"left"},
+		{"id":"48f81991db116012","fromNode":"e41f0d7e83061da9","fromSide":"right","toNode":"235aba794effd0f6","toSide":"left"},
+		{"id":"c44994d14cac40a6","fromNode":"e41f0d7e83061da9","fromSide":"right","toNode":"42e9d2ef95682d48","toSide":"left"},
+		{"id":"d6d35df375f76f92","fromNode":"e41f0d7e83061da9","fromSide":"right","toNode":"d58425596b5f29ff","toSide":"left"},
+		{"id":"3ef4d6586449c432","fromNode":"ab9bd11d3a2f1cab","fromSide":"right","toNode":"009e7bdfd6fc38ce","toSide":"left"},
+		{"id":"f1e35d205c0efd47","fromNode":"ab9bd11d3a2f1cab","fromSide":"right","toNode":"0bb8aa1d746894dc","toSide":"left"}
+	]
+}
