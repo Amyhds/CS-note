@@ -4,7 +4,7 @@
 		{"id":"235aba794effd0f6","type":"file","file":"운영체제/드라이버.md","x":-900,"y":-40,"width":400,"height":160},
 		{"id":"42e9d2ef95682d48","type":"file","file":"운영체제/인터페이스.md","x":-900,"y":178,"width":400,"height":164},
 		{"id":"d58425596b5f29ff","type":"file","file":"운영체제/시스템 콜.md","x":-900,"y":400,"width":440,"height":320},
-		{"id":"ab9bd11d3a2f1cab","type":"file","file":"운영체제/커널.md","x":-900,"y":-880,"width":660,"height":769},
+		{"id":"ab9bd11d3a2f1cab","type":"file","file":"운영체제/커널.md","x":-900,"y":-1080,"width":660,"height":969},
 		{"id":"009e7bdfd6fc38ce","type":"file","file":"운영체제/단일형 커널.md","x":-80,"y":-880,"width":520,"height":360},
 		{"id":"0bb8aa1d746894dc","type":"file","file":"운영체제/마이크로커널.md","x":-80,"y":-495,"width":520,"height":384}
 	],
