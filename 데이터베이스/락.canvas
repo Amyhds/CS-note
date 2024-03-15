@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"0dd89837bf52bb7f","x":-1220,"y":-104,"width":400,"height":184,"type":"file","file":"데이터베이스/배타 락.md"},
+		{"id":"e07e119ed4e5c3f9","x":-720,"y":-400,"width":479,"height":980,"type":"file","file":"데이터베이스/비관적 락.md"},
+		{"id":"481eb795b6c9b4de","x":-1220,"y":120,"width":400,"height":150,"type":"file","file":"데이터베이스/공유 락.md"},
+		{"id":"86c01c5fc96de140","x":-160,"y":-210,"width":540,"height":600,"type":"file","file":"데이터베이스/락.md"},
+		{"id":"80ed6066609f3a67","x":440,"y":-400,"width":560,"height":980,"type":"file","file":"데이터베이스/낙관적 락.md"}
+	],
+	"edges":[
+		{"id":"1c386dd2aeb6e995","fromNode":"e07e119ed4e5c3f9","fromSide":"left","toNode":"0dd89837bf52bb7f","toSide":"right"},
+		{"id":"1ceed9708d87e3a8","fromNode":"e07e119ed4e5c3f9","fromSide":"left","toNode":"481eb795b6c9b4de","toSide":"right"},
+		{"id":"2a27688c0f3faf0d","fromNode":"86c01c5fc96de140","fromSide":"left","toNode":"e07e119ed4e5c3f9","toSide":"right"},
+		{"id":"8f5b2b4e9c35e551","fromNode":"86c01c5fc96de140","fromSide":"right","toNode":"80ed6066609f3a67","toSide":"left"}
+	]
+}
