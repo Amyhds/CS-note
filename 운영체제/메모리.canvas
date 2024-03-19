@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"4782fe8a99e595e5","type":"file","file":"운영체제/캐시.md","x":-800,"y":-420,"width":560,"height":660},
-		{"id":"97cb48fcc97fbdf0","type":"file","file":"운영체제/메모리.md","x":0,"y":-520,"width":540,"height":600},
+		{"id":"97cb48fcc97fbdf0","type":"file","file":"운영체제/메모리.md","x":0,"y":-555,"width":540,"height":635},
 		{"id":"71352a9fb864963e","type":"file","file":"운영체제/메모리(주기억장치).md","x":-800,"y":280,"width":560,"height":400},
 		{"id":"f15f2c6077ad8674","type":"file","file":"운영체제/저장장치(보조기억장치).md","x":-800,"y":731,"width":560,"height":269},
 		{"id":"08bc386b6633b0f9","type":"file","file":"운영체제/레지스터.md","x":-800,"y":-720,"width":560,"height":240},
